@@ -1,0 +1,10 @@
+, Ordered,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32
+, Decimal,1,2,4,9,17,18,20,33,34,36,41,49,50,52,65,66,68,73,81,82,84,97,98,100,105,113,114,116,137,169,201,233
+1 - Dubcek, Revert, Y, N, N, Y, Y, N, N, Y, N, N, Y, Y, N, N, Y, N, N, Y, Y, N, N, Y, N, N, Y, Y, N, N, Y, Y, Y, Y
+, Maintain, N, Y, N, N, N, Y, N, N, Y, N, N, N, Y, N, N, Y, N, N, N, Y, N, N, Y, N, N, N, Y, N, N, N, N, N
+, Democratize, N, N, Y, N, N, N, Y, N, N, Y, N, N, N, Y, N, N, Y, N, N, N, Y, N, N, Y, N, N, N, Y, N, N, N, N
+2 - Brezhnev, Invade, N, N, N, Y, N, N, N, N, N, N, Y, N, N, N, N, N, N, Y, N, N, N, N, N, N, Y, N, N, N, Y, Y, Y, Y
+, Acknowledge, N, N, N, N, Y, Y, Y, N, N, N, N, Y, Y, Y, N, N, N, N, Y, Y, Y, N, N, N, N, Y, Y, Y, N, N, N, N
+3 - Czechs, Rebel , N, N, N, N, N, N, N, Y, Y, Y, Y, Y, Y, Y, N, N, N, N, N, N, N, Y, Y, Y, Y, Y, Y, Y, N, Y, N, Y
+, Criticize, N, N, N, N, N, N, N, N, N, N, N, N, N, N, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, N, N, Y, Y
+4 - US, Block, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, Y, Y, Y, Y
